@@ -18,26 +18,17 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
 
-
-        // Instance of users list using the data model class.
-        //val usersList: ArrayList<jsonModelClass> = ArrayList()
-
-
-
         try {
 
             val jsonString = getJSONFromAssets()!!
             val players = Gson().fromJson(jsonString, Players::class.java)
 
             rv_players_list.layoutManager = LinearLayoutManager(this)
-            // Adapter class is initialized and list is passed in the param.
             val itemAdapter = UserAdapter(this, players.players)
-            // adapter instance is set to the recyclerview to inflate the items.
             rv_players_list.adapter = itemAdapter
 
 
         } catch (e: JSONException) {
-            //exception
             e.printStackTrace()
         }
 
