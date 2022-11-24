@@ -36,9 +36,6 @@ class MainActivity : AppCompatActivity() {
     }
 
 
-    /**
-     * Method to load the JSON from the Assets file and return the object
-     */
     private fun getJSONFromAssets(): String? {
 
         var json: String? = null
