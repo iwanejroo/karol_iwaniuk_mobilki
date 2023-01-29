@@ -1,0 +1,134 @@
+{
+  "players": [
+    {
+      "imie": "Robert",
+      "nazwisko":"Lewandowski",
+      "wiek": 34,
+      "pozycja": "Napastnik",
+      "zdjecie": "https://fwcdn.pl/ppo/31/38/1953138/465972.2.jpg",
+      "narodowosc": "Polska",
+      "statystyki":{
+        "mecze": 15,
+        "gole": 13,
+        "asysty": 4
+      }
+    },
+    {
+      "imie": "Marc-Andre",
+      "nazwisko":"ter Stegen",
+      "wiek": 30,
+      "pozycja": "Bramkarz",
+      "zdjecie": "https://fwcdn.pl/ppo/31/38/1953138/465972.2.jpg",
+      "narodowosc": "Niemcy",
+      "statystyki":{
+        "mecze": 18,
+        "gole": 0,
+        "asysty": 0
+      }
+    },
+    {
+      "imie": "Ronald",
+      "nazwisko":"Araujo",
+      "wiek": 23,
+      "pozycja": "Obrońca",
+      "zdjecie": "https://fwcdn.pl/ppo/31/38/1953138/465972.2.jpg",
+      "narodowosc": "Urugwaj",
+      "statystyki":{
+        "mecze": 8,
+        "gole": 0,
+        "asysty": 0
+      }
+    },
+    {
+      "imie": "Jules",
+      "nazwisko":"Kounde",
+      "wiek": 24,
+      "pozycja": "Obrońca",
+      "zdjecie": "https://fwcdn.pl/ppo/31/38/1953138/465972.2.jpg",
+      "narodowosc": "Francja",
+      "statystyki":{
+        "mecze": 11,
+        "gole": 0,
+        "asysty": 2
+      }
+    },
+    {
+      "imie": "Franck",
+      "nazwisko":"Kessie",
+      "wiek": 26,
+      "pozycja": "Pomocnik",
+      "zdjecie": "https://fwcdn.pl/ppo/31/38/1953138/465972.2.jpg",
+      "narodowosc": "WKS",
+      "statystyki":{
+        "mecze": 10,
+        "gole": 0,
+        "asysty": 0
+      }
+    },
+    {
+      "imie": "Frenkie",
+      "nazwisko":"de Jong",
+      "wiek": 34,
+      "pozycja": "Pomocnik",
+      "zdjecie": "https://fwcdn.pl/ppo/31/38/1953138/465972.2.jpg",
+      "narodowosc": "Holandia",
+      "statystyki":{
+        "mecze": 16,
+        "gole": 2,
+        "asysty": 1
+      }
+    },
+    {
+      "imie": "Sergio",
+      "nazwisko":"Busquets",
+      "wiek": 34,
+      "pozycja": "Pomocnik",
+      "zdjecie": "https://fwcdn.pl/ppo/31/38/1953138/465972.2.jpg",
+      "narodowosc": "Polska",
+      "statystyki":{
+        "mecze": 16,
+        "gole": 0,
+        "asysty": 1
+      }
+    },
+    {
+      "imie": "Ousmane",
+      "nazwisko":"Dembele",
+      "wiek": 25,
+      "pozycja": "Napastnik",
+      "zdjecie": "https://fwcdn.pl/ppo/31/38/1953138/465972.2.jpg",
+      "narodowosc": "Francja",
+      "statystyki":{
+        "mecze": 18,
+        "gole": 5,
+        "asysty": 5
+      }
+    },
+    {
+      "imie": "Ansu",
+      "nazwisko":"Fati",
+      "wiek": 20,
+      "pozycja": "Napastnik",
+      "zdjecie": "https://fwcdn.pl/ppo/31/38/1953138/465972.2.jpg",
+      "narodowosc": "Hiszpania",
+      "statystyki":{
+        "mecze": 18,
+        "gole": 3,
+        "asysty": 3
+      }
+    },
+    {
+      "imie": "Ferran",
+      "nazwisko":"Torres",
+      "wiek": 22,
+      "pozycja": "Napastnik",
+      "zdjecie": "https://fwcdn.pl/ppo/31/38/1953138/465972.2.jpg",
+      "narodowosc": "Hiszpania",
+      "statystyki":{
+        "mecze": 15,
+        "gole": 2,
+        "asysty": 0
+      }
+    }
+  ]
+}
