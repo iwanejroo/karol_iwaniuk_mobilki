@@ -1,174 +1,35 @@
 {
   "players": [
     {
-      "imie": "Jan",
-      "nazwisko":"Kowalski",
-      "wiek": 25,
-      "pozycja": "Napastnik",
-      "zdjecie": "https://intermediolan.com/img/avatary/av2.jpg",
-      "data_zatrudnienia": "10-10-2020",
-      "dane_kontaktowe":{
-        "nr_telefonu": "123456789",
-        "adres_email": "blabla@gmail.com"
-      },
-      "adres_zamieszkania":{
-        "miasto":"Bialystok",
-        "ulica":"Sienkiewicza",
-        "nr_domu":"30"
+      "id": "1",
+      "player": {
+        "imie": "Robert",
+        "nazwisko": "Lewandowski",
+        "wiek": 34,
+        "pozycja": "Napastnik",
+        "zdjecie": "https://fwcdn.pl/ppo/31/38/1953138/465972.2.jpg",
+        "narodowosc": "Polska",
+        "statystyki": {
+          "mecze": 15,
+          "gole": 13,
+          "asysty": 4
+        }
       }
     },
     {
-      "imie": "Tomasz",
-      "nazwisko":"Nowak",
-      "wiek": 40,
-      "pozycja": "Środkowy obrońca",
-      "zdjecie": "https://lubsport.pl/wp-content/uploads/2021/11/messi-psg-2021_hi331t9qcrlo1g179sox11bcf-1170x700.jpg",
-      "data_zatrudnienia": "10-10-2020",
-      "dane_kontaktowe":{
-        "nr_telefonu": "123456789",
-        "adres_email": "blabla@gmail.com"
-      },
-      "adres_zamieszkania":{
-        "miasto":"Bialystok",
-        "ulica":"Sienkiewicza",
-        "nr_domu":"30"
-      }
-    },
-    {
-      "imie": "Jan",
-      "nazwisko":"Kowalski",
-      "wiek": 40,
-      "pozycja": "Pierwszy trener",
-      "zdjecie": "https://intermediolan.com/img/avatary/av2.jpg",
-      "data_zatrudnienia": "10-10-2020",
-      "dane_kontaktowe":{
-        "nr_telefonu": "123456789",
-        "adres_email": "blabla@gmail.com"
-      },
-      "adres_zamieszkania":{
-        "miasto":"Bialystok",
-        "ulica":"Sienkiewicza",
-        "nr_domu":"30"
-      }
-    },
-    {
-      "imie": "Jan",
-      "nazwisko": "Kowalski",
-      "wiek": 40,
-      "pozycja": "Napastnik",
-      "zdjecie": "https://intermediolan.com/img/avatary/av2.jpg",
-      "data_zatrudnienia": "10-10-2020",
-      "dane_kontaktowe": {
-        "nr_telefonu": "123456789",
-        "adres_email": "blabla@gmail.com"
-      },
-      "adres_zamieszkania": {
-        "miasto": "Bialystok",
-        "ulica": "Sienkiewicza",
-        "nr_domu": "30"
-      }
-    },
-    {
-    "imie": "Jan",
-    "nazwisko": "Kowalski",
-    "wiek": 40,
-    "pozycja": "https://intermediolan.com/img/avatary/av2.jpg",
-    "zdjecie": "link....jpg",
-    "data_zatrudnienia": "10-10-2020",
-    "dane_kontaktowe": {
-      "nr_telefonu": "123456789",
-      "adres_email": "blabla@gmail.com"
-    },
-    "adres_zamieszkania":
-    {
-      "miasto": "Bialystok",
-      "ulica": "Sienkiewicza",
-      "nr_domu": "30"
-    }
-    },
-    {
-    "imie": "Jan",
-    "nazwisko": "Kowalski",
-    "wiek": 40,
-    "pozycja": "Pierwszy trener",
-    "zdjecie": "https://intermediolan.com/img/avatary/av2.jpg",
-    "data_zatrudnienia": "10-10-2020",
-    "dane_kontaktowe": {
-      "nr_telefonu": "123456789",
-      "adres_email": "blabla@gmail.com"
-    },
-    "adres_zamieszkania": {
-      "miasto": "Bialystok",
-      "ulica": "Sienkiewicza",
-      "nr_domu": "30"
-    }
-    },
-    {
-    "imie": "Jan",
-    "nazwisko": "Kowalski",
-    "wiek": 40,
-    "pozycja": "Pierwszy trener",
-    "zdjecie": "https://intermediolan.com/img/avatary/av2.jpg",
-    "data_zatrudnienia": "10-10-2020",
-    "dane_kontaktowe": {
-      "nr_telefonu": "123456789",
-      "adres_email": "blabla@gmail.com"
-    },
-    "adres_zamieszkania": {
-      "miasto": "Bialystok",
-      "ulica": "Sienkiewicza",
-      "nr_domu": "30"
-    }
-    },
-    {
-      "imie": "Jan",
-      "nazwisko": "Kowalski",
-      "wiek": 40,
-      "pozycja": "Pierwszy trener",
-      "zdjecie": "https://intermediolan.com/img/avatary/av2.jpg",
-      "data_zatrudnienia": "10-10-2020",
-      "dane_kontaktowe": {
-        "nr_telefonu": "123456789",
-        "adres_email": "blabla@gmail.com"
-      },
-      "adres_zamieszkania": {
-        "miasto": "Bialystok",
-        "ulica": "Sienkiewicza",
-        "nr_domu": "30"
-      }
-    },
-    {
-      "imie": "Jan",
-      "nazwisko": "Kowalski",
-      "wiek": 40,
-      "pozycja": "Pierwszy trener",
-      "zdjecie": "https://intermediolan.com/img/avatary/av2.jpg",
-      "data_zatrudnienia": "10-10-2020",
-      "dane_kontaktowe": {
-        "nr_telefonu": "123456789",
-        "adres_email": "blabla@gmail.com"
-      },
-      "adres_zamieszkania": {
-        "miasto": "Bialystok",
-        "ulica": "Sienkiewicza",
-        "nr_domu": "30"
-      }
-    },
-    {
-      "imie": "Jan",
-      "nazwisko": "Kowalski",
-      "wiek": 40,
-      "pozycja": "Pierwszy trener",
-      "zdjecie": "https://intermediolan.com/img/avatary/av2.jpg",
-      "data_zatrudnienia": "10-10-2020",
-      "dane_kontaktowe": {
-        "nr_telefonu": "123456789",
-        "adres_email": "blabla@gmail.com"
-      },
-      "adres_zamieszkania": {
-        "miasto": "Bialystok",
-        "ulica": "Sienkiewicza",
-        "nr_domu": "30"
+      "id": "1",
+      "player": {
+        "imie": "Robert",
+        "nazwisko": "Lewandowski",
+        "wiek": 34,
+        "pozycja": "Napastnik",
+        "zdjecie": "https://fwcdn.pl/ppo/31/38/1953138/465972.2.jpg",
+        "narodowosc": "Polska",
+        "statystyki": {
+          "mecze": 15,
+          "gole": 13,
+          "asysty": 4
+        }
       }
     }
   ]
