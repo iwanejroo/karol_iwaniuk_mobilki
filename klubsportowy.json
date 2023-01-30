@@ -19,6 +19,22 @@
     {
       "id": "2",
       "player": {
+        "imie": "Marc-Andre",
+        "nazwisko": "ter Stegen",
+        "wiek": 30,
+        "pozycja": "Bramkarz",
+        "zdjecie": "https://www.flashscore.pl/res/image/data/pGwZT4wS-pSi6QrrO.png",
+        "narodowosc": "Niemcy",
+        "statystyki": {
+          "mecze": 18,
+          "gole": 0,
+          "asysty": 0
+        }
+      }
+    },
+    {
+      "id": "1",
+      "player": {
         "imie": "Robert",
         "nazwisko": "Lewandowski",
         "wiek": 34,
@@ -31,6 +47,118 @@
           "asysty": 4
         }
       }
-    }
+    },
+    {
+      "id": "1",
+      "player": {
+        "imie": "Robert",
+        "nazwisko": "Lewandowski",
+        "wiek": 34,
+        "pozycja": "Napastnik",
+        "zdjecie": "https://fwcdn.pl/ppo/31/38/1953138/465972.2.jpg",
+        "narodowosc": "Polska",
+        "statystyki": {
+          "mecze": 15,
+          "gole": 13,
+          "asysty": 4
+        }
+      }
+    },
+    {
+      "id": "1",
+      "player": {
+        "imie": "Robert",
+        "nazwisko": "Lewandowski",
+        "wiek": 34,
+        "pozycja": "Napastnik",
+        "zdjecie": "https://fwcdn.pl/ppo/31/38/1953138/465972.2.jpg",
+        "narodowosc": "Polska",
+        "statystyki": {
+          "mecze": 15,
+          "gole": 13,
+          "asysty": 4
+        }
+      }
+    },
+    {
+      "id": "1",
+      "player": {
+        "imie": "Robert",
+        "nazwisko": "Lewandowski",
+        "wiek": 34,
+        "pozycja": "Napastnik",
+        "zdjecie": "https://fwcdn.pl/ppo/31/38/1953138/465972.2.jpg",
+        "narodowosc": "Polska",
+        "statystyki": {
+          "mecze": 15,
+          "gole": 13,
+          "asysty": 4
+        }
+      }
+    },
+    {
+      "id": "1",
+      "player": {
+        "imie": "Robert",
+        "nazwisko": "Lewandowski",
+        "wiek": 34,
+        "pozycja": "Napastnik",
+        "zdjecie": "https://fwcdn.pl/ppo/31/38/1953138/465972.2.jpg",
+        "narodowosc": "Polska",
+        "statystyki": {
+          "mecze": 15,
+          "gole": 13,
+          "asysty": 4
+        }
+      }
+    },
+    {
+      "id": "1",
+      "player": {
+        "imie": "Robert",
+        "nazwisko": "Lewandowski",
+        "wiek": 34,
+        "pozycja": "Napastnik",
+        "zdjecie": "https://fwcdn.pl/ppo/31/38/1953138/465972.2.jpg",
+        "narodowosc": "Polska",
+        "statystyki": {
+          "mecze": 15,
+          "gole": 13,
+          "asysty": 4
+        }
+      }
+    },
+    {
+      "id": "1",
+      "player": {
+        "imie": "Robert",
+        "nazwisko": "Lewandowski",
+        "wiek": 34,
+        "pozycja": "Napastnik",
+        "zdjecie": "https://fwcdn.pl/ppo/31/38/1953138/465972.2.jpg",
+        "narodowosc": "Polska",
+        "statystyki": {
+          "mecze": 15,
+          "gole": 13,
+          "asysty": 4
+        }
+      }
+    },
+    {
+      "id": "1",
+      "player": {
+        "imie": "Robert",
+        "nazwisko": "Lewandowski",
+        "wiek": 34,
+        "pozycja": "Napastnik",
+        "zdjecie": "https://fwcdn.pl/ppo/31/38/1953138/465972.2.jpg",
+        "narodowosc": "Polska",
+        "statystyki": {
+          "mecze": 15,
+          "gole": 13,
+          "asysty": 4
+        }
+      }
+    },
   ]
 }
