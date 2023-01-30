@@ -7,7 +7,7 @@
         "nazwisko": "Lewandowski",
         "wiek": 34,
         "pozycja": "Napastnik",
-        "zdjecie": "https://fwcdn.pl/ppo/31/38/1953138/465972.2.jpg",
+        "zdjecie": "https://www.flashscore.pl/res/image/data/jVypQpZA-6esVBbvF.png",
         "narodowosc": "Polska",
         "statystyki": {
           "mecze": 15,
@@ -35,111 +35,111 @@
     {
       "id": "3",
       "player": {
-        "imie": "Robert",
-        "nazwisko": "Lewandowski",
-        "wiek": 34,
-        "pozycja": "Napastnik",
-        "zdjecie": "https://fwcdn.pl/ppo/31/38/1953138/465972.2.jpg",
-        "narodowosc": "Polska",
+        "imie": "Jordi",
+        "nazwisko": "Alba",
+        "wiek": 33,
+        "pozycja": "Obrońca",
+        "zdjecie": "https://www.flashscore.pl/res/image/data/bc6kYTFG-dSbusCmL.png",
+        "narodowosc": "Hiszpania",
         "statystyki": {
-          "mecze": 15,
-          "gole": 13,
-          "asysty": 4
+          "mecze": 13,
+          "gole": 0,
+          "asysty": 2
         }
       }
     },
     {
       "id": "4",
       "player": {
-        "imie": "Robert",
-        "nazwisko": "Lewandowski",
-        "wiek": 34,
-        "pozycja": "Napastnik",
-        "zdjecie": "https://fwcdn.pl/ppo/31/38/1953138/465972.2.jpg",
-        "narodowosc": "Polska",
+        "imie": "Marcos",
+        "nazwisko": "Alonso",
+        "wiek": 32,
+        "pozycja": "Obrońca",
+        "zdjecie": "https://www.flashscore.pl/res/image/data/xnnIo5wS-KG0pNLro.png",
+        "narodowosc": "Hiszpania",
         "statystyki": {
-          "mecze": 15,
-          "gole": 13,
-          "asysty": 4
+          "mecze": 11,
+          "gole": 1,
+          "asysty": 3
         }
       }
     },
     {
       "id": "5",
       "player": {
-        "imie": "Robert",
-        "nazwisko": "Lewandowski",
-        "wiek": 34,
-        "pozycja": "Napastnik",
-        "zdjecie": "https://fwcdn.pl/ppo/31/38/1953138/465972.2.jpg",
-        "narodowosc": "Polska",
+        "imie": "Ronald",
+        "nazwisko": "Araujo",
+        "wiek": 23,
+        "pozycja": "Obrońca",
+        "zdjecie": "https://www.flashscore.pl/res/image/data/0vUnjWBr-bakanh7A.png",
+        "narodowosc": "Urugwaj",
         "statystyki": {
-          "mecze": 15,
-          "gole": 13,
-          "asysty": 4
+          "mecze": 8,
+          "gole": 0,
+          "asysty": 0
         }
       }
     },
     {
       "id": "6",
       "player": {
-        "imie": "Robert",
-        "nazwisko": "Lewandowski",
-        "wiek": 34,
-        "pozycja": "Napastnik",
-        "zdjecie": "https://fwcdn.pl/ppo/31/38/1953138/465972.2.jpg",
-        "narodowosc": "Polska",
+        "imie": "Frankie",
+        "nazwisko": "de Jong",
+        "wiek": 25,
+        "pozycja": "Pomocnik",
+        "zdjecie": "https://www.flashscore.pl/res/image/data/x6fRUSwS-QTNz6sbN.png",
+        "narodowosc": "Holandia",
         "statystyki": {
-          "mecze": 15,
-          "gole": 13,
-          "asysty": 4
+          "mecze": 16,
+          "gole": 2,
+          "asysty": 1
         }
       }
     },
     {
       "id": "7",
       "player": {
-        "imie": "Robert",
-        "nazwisko": "Lewandowski",
-        "wiek": 34,
-        "pozycja": "Napastnik",
-        "zdjecie": "https://fwcdn.pl/ppo/31/38/1953138/465972.2.jpg",
-        "narodowosc": "Polska",
+        "imie": "Franck",
+        "nazwisko": "Kessie",
+        "wiek": 26,
+        "pozycja": "Pomocnik",
+        "zdjecie": "https://www.flashscore.pl/res/image/data/ry9jGQg5-dt4XJVab.png",
+        "narodowosc": "WKS",
         "statystyki": {
-          "mecze": 15,
-          "gole": 13,
-          "asysty": 4
+          "mecze": 10,
+          "gole": 0,
+          "asysty": 0
         }
       }
     },
     {
       "id": "8",
       "player": {
-        "imie": "Robert",
-        "nazwisko": "Lewandowski",
-        "wiek": 34,
+        "imie": "Osmane",
+        "nazwisko": "Dembele",
+        "wiek": 25,
         "pozycja": "Napastnik",
-        "zdjecie": "https://fwcdn.pl/ppo/31/38/1953138/465972.2.jpg",
-        "narodowosc": "Polska",
+        "zdjecie": "https://www.flashscore.pl/res/image/data/tdKBOBfM-ttWZ0AYG.png",
+        "narodowosc": "Francja",
         "statystyki": {
-          "mecze": 15,
-          "gole": 13,
-          "asysty": 4
+          "mecze": 18,
+          "gole": 5,
+          "asysty": 5
         }
       }
     },
     {
       "id": "9",
       "player": {
-        "imie": "Robert",
-        "nazwisko": "Lewandowski",
-        "wiek": 34,
+        "imie": "Ansu",
+        "nazwisko": "Fati",
+        "wiek": 20,
         "pozycja": "Napastnik",
-        "zdjecie": "https://fwcdn.pl/ppo/31/38/1953138/465972.2.jpg",
-        "narodowosc": "Polska",
+        "zdjecie": "https://www.flashscore.pl/res/image/data/xrjqAlyB-CM7gChfp.png",
+        "narodowosc": "Hiszpania",
         "statystyki": {
-          "mecze": 15,
-          "gole": 13,
+          "mecze": 18,
+          "gole": 3,
           "asysty": 4
         }
       }
@@ -147,16 +147,16 @@
     {
       "id": "10",
       "player": {
-        "imie": "Robert",
-        "nazwisko": "Lewandowski",
-        "wiek": 34,
+        "imie": "Ferran",
+        "nazwisko": "Torres",
+        "wiek": 22,
         "pozycja": "Napastnik",
-        "zdjecie": "https://fwcdn.pl/ppo/31/38/1953138/465972.2.jpg",
+        "zdjecie": "https://www.flashscore.pl/res/image/data/C80AlnYg-xf41SzA1.png",
         "narodowosc": "Polska",
         "statystyki": {
           "mecze": 15,
-          "gole": 13,
-          "asysty": 4
+          "gole": 2,
+          "asysty": 0
         }
       }
     }
