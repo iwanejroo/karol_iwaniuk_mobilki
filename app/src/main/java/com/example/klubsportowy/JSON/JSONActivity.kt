@@ -9,10 +9,9 @@ import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.klubsportowy.R
 import com.example.klubsportowy.APIService
-import com.example.klubsportowy.Cell
+import com.example.klubsportowy.List
 import com.example.klubsportowy.RVAdapter
 import com.example.klubsportowy.databinding.ActivityJsonBinding
-import com.google.gson.GsonBuilder
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
@@ -23,7 +22,7 @@ import java.util.*
 
 class JSONActivity : AppCompatActivity() {
 
-    var itemsArray: ArrayList<Cell> = ArrayList()
+    var itemsArray: ArrayList<List> = ArrayList()
     lateinit var adapter: RVAdapter
     private lateinit var binding: ActivityJsonBinding
 
@@ -65,7 +64,7 @@ class JSONActivity : AppCompatActivity() {
             withContext(Dispatchers.Main) {
                 if (response.isSuccessful) {
 
-                    val gson = GsonBuilder().setPrettyPrinting().create()
+                    //val gson = GsonBuilder().setPrettyPrinting().create()
                     //val prettyJson = gson.toJson(response.body())
 
 
@@ -105,7 +104,7 @@ class JSONActivity : AppCompatActivity() {
 
 
                             val model =
-                                Cell(
+                                List(
                                     id,
                                     playername,
                                     playersurname,

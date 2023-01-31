@@ -1,6 +1,6 @@
 package com.example.klubsportowy
 
-data class Cell(
+data class List(
         var playerid: String,
         var playername: String,
         var playersurname: String,
